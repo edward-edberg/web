@@ -21,21 +21,24 @@ footer {
 }
 
 a:link {
-  color: #9ec5ab;
+  /* color: #9ec5ab; */
+  color: #61a076;
   /* color: #e7ecef; */
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #9ec5ab;
+  /* color: #9ec5ab; */
   /* color: #e7ecef; */
+  color: #61a076;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #32746d;
+  /* color: #32746d; */
+  color: #61a076;
   /* color: #274c77; */
   transition-duration: 200ms;
   background-color: transparent;
@@ -44,7 +47,8 @@ a:hover {
 }
 
 a:active {
-  color: #32746d;
+  /* color: #32746d; */
+  color: #61a076;
   /* color: #274c77; */
   background-color: transparent;
   text-decoration: none;

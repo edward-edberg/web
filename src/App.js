@@ -80,8 +80,7 @@ function Contact() {
           &nbsp;Hayward, California, USA
         </p> */}
         <p>
-          <i class="fa fa-fw fa-envelope"></i>
-          &nbsp;edward.halim@wisc.edu
+          <i class="fa fa-fw fa-envelope"></i>&nbsp;edwardedberg@cs.wisc.edu
         </p>
         <p>
           <i class="fa fa-fw fa-github"></i>{" "}
