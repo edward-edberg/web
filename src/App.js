@@ -117,7 +117,7 @@ function Contact() {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="./files/cv_edward_2023.pdf"
+            href="./files/cv_edward_edberg_halim_2024.pdf"
           >
             CV
           </a>
@@ -152,14 +152,14 @@ function Intro() {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://pages.cs.wisc.edu/~mgliu/"
+          href="https://swamittannu.com/"
         >
-          Prof. Ming Liu
+          Prof. Swamit Tannu
         </a>
         . My main interests are in the intersection of{" "}
-        <b>systems, networking, and machine learning</b> to build the
-        next-generation data centers. I'm currently exploring{" "}
-        <b>resource disaggregation</b>. Before joining UW-Madison, I worked
+        <b>Quantum Computing Systems and Machine Learning</b> to build the
+        next-generation Fault Tolerant Quantum Computer. I'm currently exploring{" "}
+        <b>Neutral Atom Quantum Computing Readout</b>. Before starting PhD program at UW-Madison, I worked
         with&nbsp;
         <a
           target="_blank"
@@ -176,7 +176,7 @@ function Intro() {
         >
           Prof. Derry Wijaya
         </a>
-        &nbsp;from Boston University, and&nbsp;
+        &nbsp;from Boston University, &nbsp;
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -184,7 +184,15 @@ function Intro() {
         >
           Prof. Huaicheng Li
         </a>
-        &nbsp;from CMU / Virginia Tech.
+        &nbsp;from CMU / Virginia Tech, and&nbsp;
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://pages.cs.wisc.edu/~mgliu/"
+        >
+          Prof. Ming Liu
+        </a>
+        &nbsp;from UW-Madison.
       </p>
       <p>
         I love sharing my experience and mentoring students. Feel free to
